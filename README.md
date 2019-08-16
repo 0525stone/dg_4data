@@ -2,6 +2,8 @@
 
 ##### https://medium.com/datadriveninvestor/how-to-custom-datasets-and-dataloaders-with-pytorch-e27f9e2a9009
 
+#### To do : get 4 points which decide vanishing point and get better candidates of vanishing point
+
 Pytorch 장점
 ------------
 
